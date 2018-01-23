@@ -17,7 +17,7 @@ public class JUnitTest {
     }
     @AfterClass
     public void aftercalss(){
-        System.out.println("Afterclass");
+        System.out.println("Afterclassgggggggggg");
     }
     @Test
     public void test1(){
