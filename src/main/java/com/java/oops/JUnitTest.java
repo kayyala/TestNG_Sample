@@ -20,7 +20,13 @@ public class JUnitTest {
         System.out.println("Afterclass");
     }
     @Test
-    public void open(){
+    public void test1(){
         System.out.println("this is testing ");
     }
+    @Test
+    public void test2(){
+        System.out.println("this is my second test");
+
+    }
 }
+
